@@ -16,6 +16,10 @@ h3 {
   text-indent: 30px;
 }
 
+h4 {
+  font-family: century;
+}
+
 p {
   font-family: century;
 }
@@ -30,4 +34,8 @@ ul {
 
 li {
   font-family: century;
+}
+
+img {
+    max-width: 100%;
 }

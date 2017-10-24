@@ -3,13 +3,13 @@ body {
       max-width: 700px;
       margin-left: auto;
       margin-right: auto;
-      font-family: century;
+      font-family: 'Playfair Display', serif;
 }
 
 h1 {
     text-align: center;
     font-size: 50;
-    font-family: century;
+    font-family: 'Playfair Display', serif;
 }
 
 h3 {
@@ -17,23 +17,23 @@ h3 {
 }
 
 h4 {
-  font-family: century;
+  font-family: 'Playfair Display', serif;
 }
 
 p {
-  font-family: century;
+  font-family: 'Playfair Display', serif;
 }
 
 ol {
-  font-family: century;
+  font-family: 'Playfair Display', serif;
 }
 
 ul {
-  font-family: century;
+  font-family: 'Playfair Display', serif;
 }
 
 li {
-  font-family: century;
+  font-family: 'Playfair Display', serif;
 }
 
 img {
